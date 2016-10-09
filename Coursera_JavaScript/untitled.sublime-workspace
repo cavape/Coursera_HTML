@@ -1,0 +1,786 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pre",
+				"previewPic"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"a",
+				"animated"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"sl",
+				"solid"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"le",
+				"leftSide"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"ow",
+				"overflow"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"li",
+				"listDoctor"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"m",
+				"min-height"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"foo",
+				"footer_bottom"
+			],
+			[
+				"Fo",
+				"font-size"
+			],
+			[
+				"th",
+				"thanks"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"che",
+				"checkout-list"
+			],
+			[
+				"re",
+				"removed"
+			],
+			[
+				"ite",
+				"itemTotal"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"Item",
+				"items"
+			],
+			[
+				"dum",
+				"dummy-grid"
+			],
+			[
+				"dra",
+				"draw_to_checkout"
+			],
+			[
+				"dummy-",
+				"dummy-grid__item"
+			],
+			[
+				"Na",
+				"NameItem"
+			],
+			[
+				"N",
+				"NameItem"
+			],
+			[
+				"ad",
+				"addName"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"jo",
+				"journal1"
+			],
+			[
+				"en",
+				"entries"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"we",
+				"weather_call"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"succ",
+				"success_callback"
+			],
+			[
+				"submit",
+				"submit-form"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"t",
+				"tip_amt"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"tip",
+				"tip_percent"
+			],
+			[
+				"ca",
+				"calculate_tip"
+			],
+			[
+				"aja",
+				"ajax_call"
+			],
+			[
+				"ins",
+				"instagram-pics"
+			],
+			[
+				"aj",
+				"ajax_call"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"ch",
+				"checkOut"
+			],
+			[
+				"rese",
+				"reservations"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"dis",
+				"dishes"
+			],
+			[
+				"par",
+				"paragraphs"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"se",
+				"secretNumber"
+			],
+			[
+				"g",
+				"guess"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"col",
+				"col1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bot",
+				"bottom-content"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bott",
+				"bottom-content-right"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"mA",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"as",
+				"aside"
+			],
+			[
+				"boe",
+				"border-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/carlos/Coursera_HTML/module3-solution/index.html",
+			"settings":
+			{
+				"buffer_size": 7612,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/carlos/Coursera_HTML/module3-solution/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/carlos/Documents/Websites/creative_construction/index.html",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Erlang)"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carlos/Coursera_HTML/Coursera_JavaScript/js/gallery.js",
+		"/Users/carlos/Coursera_HTML/Coursera_JavaScript/css/gallery.css",
+		"/Users/carlos/Coursera_HTML/Coursera_JavaScript/index.html",
+		"/Users/carlos/Coursera_HTML/module2-solution/css/style.css",
+		"/Users/carlos/Coursera_HTML/module2-solution/index.html",
+		"/Applications/MAMP/htdocs/Rainbow/wp-content/themes/kiddo-turf-parent-child/functions.php",
+		"/Applications/MAMP/htdocs/Rainbow/wp-content/themes/kiddo-turf-parent-child/style.css",
+		"/Applications/MAMP/htdocs/Rainbow/wp-content/themes/kiddo-turf-child/functions.php",
+		"/Applications/MAMP/htdocs/Rainbow/wp-content/themes/kiddo-turf-child/style.css",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/header.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/wp_bootstrap_navwalker.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/footer.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/index.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/front-page.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/functions.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/page-about.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/page.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/js/app.js",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/page-services.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/page-portfolio.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/page-contact.php",
+		"/Applications/MAMP/htdocs/Rainbow/wp-content/themes/kiddo-turf-child/function.php",
+		"/Applications/MAMP/htdocs/CreativeDesign/wp-content/themes/CreativeDesign/single.php",
+		"/Users/carlos/Desktop/Wordpress/index.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/about.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/accesories.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/baptism_gowns.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/boys_suit.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/collection.html",
+		"/Users/carlos/Documents/Websites/Unimedico/contact.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/contact.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/first_communion_gowns.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/flower_girl_dresses.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/index.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/prom_dresses.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/testimonial.html",
+		"/Users/carlos/Documents/Websites/KelytaBootstrap/css/style.css",
+		"/Users/carlos/Documents/Websites/Unimedico/index.html",
+		"/Users/carlos/Documents/Websites/Unimedico/css/style.css",
+		"/Users/carlos/Documents/Websites/cavapevending/robots.txt",
+		"/Users/carlos/Documents/Websites/cavapevending/css/style.css",
+		"/Users/carlos/Desktop/Projects/1.2/css/style.css",
+		"/Users/carlos/Desktop/Projects/1.2/index.html",
+		"/Users/carlos/Documents/Websites/cavapevending/index.html",
+		"/Users/carlos/Documents/Websites/CreativeDesign/index.html",
+		"/Users/carlos/Documents/Websites/creative_construction/index.html",
+		"/Users/carlos/Documents/Websites/index.html",
+		"/Users/carlos/Documents/Websites/CreativeDesign/css/style.css",
+		"/Users/carlos/Documents/Websites/templateBootstrap.html",
+		"/Users/carlos/Desktop/Projects/1.1/index.html",
+		"/Users/carlos/Documents/FileZilla_3.12.0.2_macosx-x86.app.tar.bz2",
+		"/Users/carlos/Documents/FileZilla_3.9.0.6_macosx-x86.app.tar.bz2",
+		"/Users/carlos/Desktop/Projects/ShoppingCart/index.html",
+		"/Users/carlos/Desktop/Projects/ShoppingCart/js/app.js",
+		"/Users/carlos/Desktop/Projects/ShoppingCart/css/style.css",
+		"/Users/carlos/Downloads/CheckoutConcepts copy/js/classie.js",
+		"/Users/carlos/Downloads/CheckoutConcepts copy/index.html",
+		"/Users/carlos/Desktop/Projects/booking_calendar/index.html",
+		"/Users/carlos/Desktop/Projects/booking_calendar/js/app.js",
+		"/Users/carlos/Desktop/Projects/booking_calendar/css/app.css",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/final Assignment/example.js",
+		"/Users/carlos/Desktop/Projects/instagram/js/app.js",
+		"/Users/carlos/Desktop/Projects/weather-solution/js/app.js",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/final Assignment/index.html",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/weather/ajax.js",
+		"/Users/carlos/Desktop/Projects/ShoppingCart/js/classie.js",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/kelyta/KelytaBootstrap/index.html",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/kelyta/KelytaBootstrap/css/style.css",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/kelyta/KelytaBootstrap/js/app.js",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/kelyta/KelytaOld/index.html",
+		"/Users/carlos/Desktop/Projects/journal.html",
+		"/Users/carlos/Desktop/Projects/ajax-forms/index.html",
+		"/Users/carlos/Desktop/Projects/instagram/index.html",
+		"/Users/carlos/Desktop/Projects/ajax-forms/js/npm.js",
+		"/Users/carlos/Desktop/Projects/contact form/contact-form.html",
+		"/Users/carlos/Desktop/Projects/ajax/index.html",
+		"/Users/carlos/Desktop/Projects/ajax/js/app.js",
+		"/Users/carlos/Desktop/Projects/ Codrops/css/set1.css",
+		"/Users/carlos/Desktop/Projects/ Codrops/ Codrops",
+		"/Users/carlos/Desktop/Projects/plugins/index.html",
+		"/Users/carlos/Desktop/Projects/plugins/js/callback.js",
+		"/Users/carlos/Desktop/Projects/plugins/js/app.js",
+		"/Users/carlos/Desktop/Projects/plugins/js/avgrund.js",
+		"/Users/carlos/Desktop/Projects/plugins/css/avgrund.css",
+		"/Users/carlos/Desktop/Projects/calculator/js/function.js",
+		"/Users/carlos/Desktop/brainstation/gitstories/index.html",
+		"/Users/carlos/Desktop/Projects/instagram/css/app.css",
+		"/Users/carlos/Downloads/Ex_Files_UaR_Bootstp3/Exercise Files/Chapter 4/04_03/Final/04_03.html",
+		"/Users/carlos/Desktop/index.html",
+		"/Users/carlos/Desktop/brainstation/css/style.css",
+		"/Users/carlos/Desktop/brainstation/index.html",
+		"/Users/carlos/Desktop/bitmaker/style.css",
+		"/Users/carlos/Desktop/bitmaker/index.html",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/final Assignment/style.css",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/CreativeDesign/css/style.css",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/CreativeDesign/index.html",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/CreativeDesign/contact.html",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/week4-fixed/view.js",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/exercise-Ajax/view.js",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/week3/script.js",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/week4assignment/view.js",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/week2.solution/view.js",
+		"/Volumes/CARLOS/George Brown/JavaScript Programing/week2/view.js",
+		"/Volumes/CAVAPE/Carlos External Drive/GeorgeBrown/DOM/Assignments/assignment2/myscript.js",
+		"/Volumes/CAVAPE/Carlos External Drive/GeorgeBrown/DOM/Assignments/assignment2/style.css",
+		"/Volumes/CAVAPE/Carlos External Drive/GeorgeBrown/DOM/Assignments/assignment2/index.html",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/RainbowKidsClub/index.html",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/Kelyta/css/fluid.css",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/Kelyta/index.html",
+		"/Volumes/CAVAPE/Carlos External Drive/WEBSITES/cavapevending/CSS/styles.css",
+		"/Volumes/CAVAPE/Carlos External Drive/GeorgeBrown/Responsive/assignments/Final Project/style.css",
+		"/Volumes/CAVAPE/Carlos External Drive/GeorgeBrown/Responsive/assignments/Final Project/index.html",
+		"/Volumes/CAVAPE/Carlos External Drive/GeorgeBrown/Responsive/assignments/Final Project/services.html",
+		"/Volumes/CAVAPE/Carlos External Drive/GeorgeBrown/Responsive/assignments/Final Project/contact.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" )",
+			"	\n",
+			"h3",
+			"h4",
+			".go",
+			"500",
+			".banner",
+			"\n  background: #f9f9f9;",
+			";\n",
+			"aside",
+			"\">\ncontainer",
+			"\">\n",
+			"top",
+			"14",
+			">\n",
+			"\n        // $('#checkout__total').html(total-(_clothing[key][myIndex].price*quantity))",
+			"checkout--active",
+			"container",
+			".checkout__order",
+			".remove",
+			"	$('.dummy-grid__item').on('click','.BuyNow', function(){\n			    var myIndex = $(this).index('.BuyNow');\n			    var addName = $('.NameProd').get(myIndex);\n\n			    // var addQuantity = $(this).find(input).val();\n			    console.log(addName);\n			    // console.log(addQuantity);\n			    });",
+			".checkout__text",
+			"dummy-header",
+			"content",
+			"checkout--active",
+			"Select",
+			";\n",
+			"wrap",
+			"color",
+			">\n",
+			"my-form",
+			"		<",
+			"val",
+			"dishes",
+			"go-top",
+			"top",
+			">';\n",
+			"%;	",
+			"width:18.97%;\n",
+			"85a6b8",
+			"header",
+			"	\n",
+			"5em",
+			"	\n",
+			"video",
+			"	padding-left: 10px;\n",
+			"png",
+			";\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/carlos/Coursera_HTML/module3-solution/index.html",
+					"settings":
+					{
+						"buffer_size": 7612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1408,
+								1408
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/carlos/Coursera_HTML/module3-solution/css/style.css",
+					"settings":
+					{
+						"buffer_size": 1003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								841,
+								841
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 53.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/carlos/Documents/Websites/creative_construction/index.html",
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1503,
+								1505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true
+}
